@@ -6,8 +6,8 @@ excerpt: >-
   floor level excel systems. The tracked inventory is automatically deployed
   into SQL data connection.
 date: '2018-01-23'
-thumb_img_path: /images/QR ERP.png
-thumb_img_alt: 
+thumb_img_path: /images/Van_Life.png
+thumb_img_alt: null
 content_img_alt: A motorcycle in a forest
 seo:
   title: The Ride In The Woods
