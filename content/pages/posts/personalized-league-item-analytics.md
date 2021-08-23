@@ -25,9 +25,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Best Waves - Surfing In Spain
+      value: Personalized League Analytics
     - name: 'twitter:description'
-      value: A intresting tale about Surfing
+      value: Personalized League Analytics
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
