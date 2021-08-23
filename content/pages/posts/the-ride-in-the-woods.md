@@ -65,7 +65,7 @@ To power computation inside  the Van, I will use a custom built GPU intensive co
 *   Corsair Hydro Series H100x liquid cooling
 *   Intel i7 Core
 
-![](/images/Comp-e12309e2.jpg)
+
 
 With the above components, we’re looking at averaging 3.8 kWh per day on a 8 hour workday + 3 hour idle surfing when looking at average power consumption over 30 days. Having a powerful computer here allows us to screen-share for work, run analytics software which consume a lot of memory at high speed locally (Think Power Bi), and juggle many tabs excels files open at once as an analyst.
 
@@ -151,4 +151,4 @@ My plan is to go with a Starlink reservation for testing and returns if necessar
 
 **Conclusion:**
 
-Hopefully, this article gives a high level overview of the decisions in creating a high performance van-life work setup for tech work. This setup is also perfect for running GPU heavy workloads locally like video processing and machine learning. This will allow your remote work performance to match that of any office worker and provide structure to onboard additional technologies in the future like AR/VR setups, IoT van sensors, and real-time applications running locally!
+Hopefully, this article gives a high level overview of the decisions in creating a high performance van-life work setup for tech work. This setup is also perfect for running GPU heavy workloads locally like video processing and machine learning. This will allow your remote work performance to match that of any office worker and provide structure to onboard additional technologies in the future like AR/VR setups, IoT van sensors, and real-time applications running locally!![](/images/Big%20Picture.jpg)
