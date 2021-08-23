@@ -5,8 +5,8 @@ excerpt: >-
   acceleration, classify swing type, and plot all swings for easy visualization.
 date: '2019-03-24'
 thumb_img_path: /images/SwingTech.png
-thumb_img_alt: Fushimi Inari Shrine in Kyoto
-content_img_alt: Fushimi Inari Shrine in Kyoto
+thumb_img_alt: SwingTech Product Pic
+content_img_alt: SwingTech Product Pic
 seo:
   title: Swingtech
   description: >-
