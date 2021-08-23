@@ -31,5 +31,11 @@ seo:
       value: images/3.jpg
       relativeUrl: true
 layout: post
+excerpt: >-
+  With soaring real-estate prices, friends in different cities, and the promise
+  of a minimalistic life free of modern trappings, I have been building a
+  van-house within my Ford Transit 250 high roof. To enable a sustainable career
+  in the van, I need to ensure good technological capacity to grow and compete
+  globally.
 ---
 Test
