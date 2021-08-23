@@ -72,9 +72,9 @@ To power computation inside  the Van, I will use a custom built GPU intensive co
 
 *   Intel i7 Core
 
-![](/images/Comp.jpg)
 
 
+![](/images/Comp-e12309e2.jpg)
 
 
 
