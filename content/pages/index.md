@@ -69,7 +69,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Fresh theme
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /images/Van_Jason dark-reyes.png
       relativeUrl: true
 layout: advanced
 ---
