@@ -1,5 +1,5 @@
 ---
-title: Van_Life Work Setup for Data Scientists
+title: Van Life Work Setup for Data Scientists
 excerpt: >-
   QR ERP is a cloud based supply chain app for inventory management. QR codes
   are used to automate the tracking of inbound and outbound inventory versus
