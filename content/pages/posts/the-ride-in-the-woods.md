@@ -51,11 +51,8 @@ To do quality work in a housevan, we want internet that is of comparable quality
 To fuel this vision, I broke my van setup into the following sections
 
 1.  Powerful Computing
-
 2.  Sufficient Battery Capacity
-
 3.  Duo Monitor Workstation
-
 4.  Reliable Wifi Setup
 
 **Powerful Computing:**
@@ -63,13 +60,9 @@ To fuel this vision, I broke my van setup into the following sections
 To power computation inside  the Van, I will use a custom built GPU intensive computer. Components Inside include:
 
 *   GeForce RTX 2080 Super
-
 *   Gigabyte X570 AORUS Master Motherboard
-
 *   Corsair silver RM 850x power supply
-
 *   Corsair Hydro Series H100x liquid cooling
-
 *   Intel i7 Core
 
 ![](/images/Comp-e12309e2.jpg)
