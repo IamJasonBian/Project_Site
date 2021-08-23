@@ -7,8 +7,8 @@ excerpt: >-
   into SQL data connection.
 date: '2018-01-23'
 thumb_img_path: /images/QR ERP.png
-thumb_img_alt: A motorcycle in a forest
-content_img_alt: A motorcycle in a forest
+thumb_img_alt: Cloud Inventory Management
+content_img_alt: Cloud Inventory Management
 seo:
   title: The Ride In The Woods
   description: A cautionary tale about riding
