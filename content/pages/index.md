@@ -56,7 +56,9 @@ seo:
       value: 'Jason Bian: Data Engineer'
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: >-
+        Existing in the intersection of optimization, analytics, and data
+        engineering
       keyName: property
     - name: 'og:image'
       value: /images/Van_Jason dark-reyes.png
