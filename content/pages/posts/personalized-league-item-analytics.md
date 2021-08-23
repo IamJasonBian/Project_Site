@@ -4,7 +4,7 @@ excerpt: "I created an api for querying live League of Legends data in Universit
 date: '2018-01-15'
 thumb_img_path: /images/Op gg Viz.png
 thumb_img_alt: Graph of League of Legends
-content_img_alt: 
+content_img_alt: Win, Tie, and Lose winrates
 seo:
   title: Best Waves - Surfing In Spain
   description: A intresting tale about Surfing
