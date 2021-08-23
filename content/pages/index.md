@@ -24,7 +24,7 @@ sections:
 
 
       For fun, I enjoy traveling and building sensors. Currently, I'm traveling
-      in a converted Ford 250 Housevan built for remote work with the intention
+      in a converted Ford 250 house-van built for remote work with the intention
       of settling in Seattle.
     actions:
       - label: Contact Me
