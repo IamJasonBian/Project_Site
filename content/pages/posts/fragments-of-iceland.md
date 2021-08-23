@@ -4,7 +4,7 @@ excerpt: >-
   A Heijunka Board is a visual scheduling tool used to achieve smooth production
   flow. Here, we automate the manual Heijunka setup from existing demand and
   implement a few different production scheduling algorithms.
-date: '2021-04-27'
+date: '2021-05-27'
 thumb_img_path: /images/Math.png
 thumb_img_alt: Icelandic horses
 content_img_alt: Icelandic horses
