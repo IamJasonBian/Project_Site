@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:description'
       value: This is the project page
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: /images/SwingTech Small.png
       relativeUrl: true
 layout: Project
 ---
