@@ -13,7 +13,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Best Waves - Surfing In Spain
+      value: Personalized Analytics
       keyName: property
     - name: 'og:description'
       value: A intresting tale about Surfing
