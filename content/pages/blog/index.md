@@ -11,7 +11,7 @@ seo:
       value: Project
       keyName: property
     - name: 'og:description'
-      value: This is the projet page
+      value: This is the projects page
       keyName: property
     - name: 'og:image'
       value: /images/SwingTech Small.png
