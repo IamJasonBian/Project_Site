@@ -1,6 +1,6 @@
 ---
 title: Van Life Work Setup for Data Scientists
-date: '2020-03-23'
+date: '2020-04-23'
 thumb_img_path: /images/Van_Life.png
 thumb_img_alt: null
 content_img_alt: A motorcycle in a forest
