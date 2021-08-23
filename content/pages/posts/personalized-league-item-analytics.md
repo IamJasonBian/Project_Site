@@ -13,7 +13,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Personalized Analytics
+      value: Personalized League Analytics
       keyName: property
     - name: 'og:description'
       value: A intresting tale about Surfing
