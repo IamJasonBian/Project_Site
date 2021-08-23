@@ -45,7 +45,9 @@ sections:
     actions: []
 seo:
   title: 'Jason Bian: Data Engineer'
-  description: The preview of the Fresh theme
+  description: >-
+    Existing in the intersection of optimization, analytics, and data
+    engineering
   extra:
     - name: 'og:type'
       value: website
