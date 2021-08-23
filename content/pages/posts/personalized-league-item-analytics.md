@@ -3,8 +3,8 @@ title: Personalized League Item Analytics
 excerpt: "I created an api for querying live League of Legends data in University of Washington's INFO 201 - Technical Foundations Lab. The concept here is to create personalized item analytics in R and Python that give better decision insights than popular league analytics engines such as\_https://na.op.gg/."
 date: '2018-01-15'
 thumb_img_path: /images/Op gg Viz.png
-thumb_img_alt: Three person about to surf
-content_img_alt: Three person about to surf
+thumb_img_alt: Graph of League of Legends
+content_img_alt: 
 seo:
   title: Best Waves - Surfing In Spain
   description: A intresting tale about Surfing
