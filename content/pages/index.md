@@ -44,7 +44,7 @@ sections:
     posts_number: 4
     actions: []
 seo:
-  title: Stackbit Fresh Theme
+  title: 'Jason Bian: Data Engineer'
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
