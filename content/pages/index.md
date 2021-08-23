@@ -44,7 +44,7 @@ sections:
     posts_number: 4
     actions: []
 seo:
-  title: 'Jason Bian: Data Engineer'
+  title: 'Jason Bian: Data Engineering and Modeling'
   description: >-
     Existing in the intersection of optimization, analytics, and data
     engineering
