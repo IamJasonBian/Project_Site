@@ -21,6 +21,11 @@ sections:
       management roles and I excel at reconciling the two through an systems
       perspective. Take a look at the projects section below to see data coming
       together from different domains into analytical data models!
+
+
+      For fun, I enjoy traveling and building sensors. Currently, I'm traveling
+      in a converted Ford 250 Housevan built for remote work with the intention
+      of settling in Seattle.
     actions:
       - label: Contact Me
         url: /contact
