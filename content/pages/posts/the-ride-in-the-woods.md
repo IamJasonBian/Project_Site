@@ -72,11 +72,7 @@ To power computation inside  the Van, I will use a custom built GPU intensive co
 
 *   Intel i7 Core
 
-
-
 ![](/images/Comp-e12309e2.jpg)
-
-
 
 With the above components, we’re looking at averaging 3.8 kWh per day on a 8 hour workday + 3 hour idle surfing when looking at average power consumption over 30 days. Having a powerful computer here allows us to screen-share for work, run analytics software which consume a lot of memory at high speed locally (Think Power Bi), and juggle many tabs excels files open at once as an analyst.
 
