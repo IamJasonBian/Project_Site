@@ -6,8 +6,8 @@ excerpt: >-
   implement a few different production scheduling algorithms.
 date: '2021-05-27'
 thumb_img_path: /images/Math.png
-thumb_img_alt: Icelandic horses
-content_img_alt: Icelandic horses
+thumb_img_alt: Electronic Heijunka Board
+content_img_alt: Electronic Heijunka Board
 layout: post
 ---
 A Heijunka box is a visual scheduling tool used in Heijunka, a concept originally created by Toyota in their TPS system to achieve smoother production flow. Typically, a n b m box is created with products on the n axis and time on the m axis.
