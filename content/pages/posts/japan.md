@@ -7,38 +7,6 @@ date: '2019-03-24'
 thumb_img_path: /images/SwingTech.png
 thumb_img_alt: SwingTech Product Pic
 content_img_alt: SwingTech Product Pic
-seo:
-  title: Swingtech
-  description: >-
-    The Shrines of Ise have been celebrated as the prototype of Japanese
-    architecture
-  extra:
-    - name: 'og:type'
-      value: article
-      keyName: property
-    - name: 'og:title'
-      value: A Weekend in Japan
-      keyName: property
-    - name: 'og:description'
-      value: >-
-        The Shrines of Ise have been celebrated as the prototype of Japanese
-        architecture
-      keyName: property
-    - name: 'og:image'
-      value: images/2.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: A Weekend in Japan
-    - name: 'twitter:description'
-      value: >-
-        The Shrines of Ise have been celebrated as the prototype of Japanese
-        architecture
-    - name: 'twitter:image'
-      value: images/2.jpg
-      relativeUrl: true
 layout: post
 title: SwingTech
 ---
