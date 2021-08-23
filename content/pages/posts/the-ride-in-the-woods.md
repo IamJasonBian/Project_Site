@@ -1,5 +1,5 @@
 ---
-title: Van Life Work Setup for Tech Work
+title: Van Life Desk Setup for Tech Work
 date: '2020-04-23'
 thumb_img_path: /images/Van_Life.png
 thumb_img_alt: null
