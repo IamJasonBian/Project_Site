@@ -116,6 +116,7 @@ sourceMapping:
       fieldPath: 'params.footer.links[0].style'
 logicFields:
   - section_posts.posts_number
+nodeVersion: 12
 models:
   config:
     type: data
@@ -283,6 +284,7 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+        label: Seo
   blog:
     type: page
     urlPath: /blog
@@ -301,11 +303,13 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+        label: Seo
   page:
     type: page
     label: Page
     layout: page
-    exclude: posts/**
+    exclude:
+      - posts/**
     fields:
       - type: string
         name: title
@@ -328,6 +332,7 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+        label: Seo
   post:
     type: page
     urlPath: '/posts/{slug}'
@@ -372,6 +377,7 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+        label: Seo
   section:
     type: object
     label: Section
@@ -390,9 +396,17 @@ models:
   section_hero:
     type: object
     label: Hero Section
-    extends:
-      - section
     fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section.
+      - type: string
+        name: section_id
+        label: Element ID
+        description: >-
+          A unique identifier that can be used when linking to this section.
+          Must not contain whitespace.
       - type: markdown
         name: content
         label: Content
@@ -404,12 +418,21 @@ models:
           type: model
           models:
             - action
+    labelField: title
   section_content:
     type: object
     label: Content Section
-    extends:
-      - section
     fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section.
+      - type: string
+        name: section_id
+        label: Element ID
+        description: >-
+          A unique identifier that can be used when linking to this section.
+          Must not contain whitespace.
       - type: image
         name: image
         label: Image
@@ -429,12 +452,21 @@ models:
           type: model
           models:
             - action
+    labelField: title
   section_posts:
     type: object
     label: Posts Section
-    extends:
-      - section
     fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section.
+      - type: string
+        name: section_id
+        label: Element ID
+        description: >-
+          A unique identifier that can be used when linking to this section.
+          Must not contain whitespace.
       - type: number
         name: posts_number
         label: Number of posts to display
@@ -446,12 +478,21 @@ models:
           type: model
           models:
             - action
+    labelField: title
   section_form:
     type: object
     label: Form Section
-    extends:
-      - section
     fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section.
+      - type: string
+        name: section_id
+        label: Element ID
+        description: >-
+          A unique identifier that can be used when linking to this section.
+          Must not contain whitespace.
       - type: markdown
         name: content
         label: Content
@@ -478,6 +519,7 @@ models:
         name: submit_label
         label: Submit Button Label
         required: true
+    labelField: title
   action:
     type: object
     label: Action
@@ -555,9 +597,13 @@ models:
       - type: string
         name: default_value
         description: The default value for textual field types.
+        label: Default Value
       - type: list
         name: options
         description: 'The list of options, used only when the field type is "select".'
+        label: Options
+        items:
+          type: string
       - type: boolean
         name: is_required
         label: Is the field required?
@@ -604,11 +650,15 @@ models:
             - type: string
               name: name
               default: ''
+              label: Name
             - type: string
               name: value
               default: ''
+              label: Value
             - type: string
               name: keyName
               default: name
+              label: Key Name
             - type: boolean
               name: relativeUrl
+              label: Relative Url
