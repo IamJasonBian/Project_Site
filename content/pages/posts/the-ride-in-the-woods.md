@@ -116,11 +116,7 @@ As of today (5.25.2021), Starlink is available to a limited number of users per 
 
 Currently the Starlink plan composes of the following rings of satellites:
 
-*   First shell: 1,440 in a 550 km (340 mi) 
-
-    [a](https://en.wikipedia.org/wiki/Orbital_altitude)
-
-    ltitude shell at 53.0° inclination
+*   First shell: 1,440 in a 550 km (340 mi) altitude shell at 53.0° inclination
 
 *   Second shell: 1,440 in a 540 km (340 mi) shell at 53.2° inclination
 
