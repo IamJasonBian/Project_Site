@@ -72,33 +72,29 @@ To power computation inside  the Van, I will use a custom built GPU intensive co
 
 *   Intel i7 Core
 
+![](/images/Comp.jpg)
 
-    ![](/images/Comp.jpg)
+
+
+
 
 With the above components, we’re looking at averaging 3.8 kWh per day on a 8 hour workday + 3 hour idle surfing when looking at average power consumption over 30 days. Having a powerful computer here allows us to screen-share for work, run analytics software which consume a lot of memory at high speed locally (Think Power Bi), and juggle many tabs excels files open at once as an analyst.
 
 **Sufficient Battery Capacity:**
 
-
 In addition to the 3.8 kWh needed for the workstation, other appliances include desktop monitors, a fridge, hot water heaters, a microwave, and a stove. In total we provision two LifePo4 BigBatteries for 8.6 kWh of capacity.
-
 
 ![](/images/Battery%20Power.PNG)
 
-
 To power this setup, solar is used with a max charge of 70A at 24V. This allows our batteries to charge in max sunlight over 5.1 hours.(8.6 kWh/(70A\*24V). In more temperate climates with lower solar efficiency however, the entire capacity might take up to 8 to 9 hours to charge. We also hold shore power and a diesel generator onboard to help us maintain sufficient power.
 
-
 ![](/images/Solar%20Mount.PNG)
-
 
 To reduce our battery consumption, we can play with overclocking/cooling within the main PC, opt for more efficient monitors, switch to AMD from Intel on the processor side, and reduce consumption using built in windows power management programs. This will allow us to cook more and shower more (can’t spend all of our time in van overworked!).
 
 **Duo Monitors:**
 
 Duo monitors are a must for true quants. From wall street traders to our local SWE I in FANNG, there’s never a downside in having more monitors. We create duo monitors mounts as shown below to enable a similar workstation as seen in the office.
-
-
 
 *   To support the duo monitors, we create an island in the middle to pull the monitors over and place the gaming pc underneath via wooden supports.
 
@@ -114,7 +110,7 @@ Duo monitors are a must for true quants. From wall street traders to our local S
 
 **Reliable Wifi Setup:**
 
-After some research, the main tradeoffs I see are: 
+After some research, the main tradeoffs I see are:
 
 Starlink vs Existing Carriers, 4G vs 5G, and hotspot selection.
 
@@ -160,7 +156,7 @@ Within 5G, Inseego MiFi M2100 5G UW ($399.99) and Nighthawk 5G Mobile Hotspot Pr
 
 ![](/images/5G%20chart.PNG)
 
-Phew, a lot to consider from an internet service perspective. After investing in our workstation from a computing perspective, ensuring adequate battery capability, and providing fast charging from multiple sources, it’s time to figure out the network to power all this. 
+Phew, a lot to consider from an internet service perspective. After investing in our workstation from a computing perspective, ensuring adequate battery capability, and providing fast charging from multiple sources, it’s time to figure out the network to power all this.
 
 Both Starlink and 5G are at it’s infancy. The main issue of using Starlink in van-life is the lack of backwards compatibility against a more reliable network like 4G for metrics like uptime. For people van-lifing in rural areas however, 4G coverage is non-existant in the first place so Starlink is the logical choice.
 
@@ -171,21 +167,3 @@ My plan is to go with a Starlink reservation for testing and returns if necessar
 **Conclusion:**
 
 Hopefully, this article gives a high level overview of the decisions in creating a high performance van-life work setup for tech work. This setup is also perfect for running GPU heavy workloads locally like video processing and machine learning. This will allow your remote work performance to match that of any office worker and provide structure to onboard additional technologies in the future like AR/VR setups, IoT van sensors, and real-time applications running locally!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
