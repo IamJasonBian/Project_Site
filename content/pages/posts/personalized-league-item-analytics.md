@@ -16,7 +16,7 @@ seo:
       value: Personalized League Analytics
       keyName: property
     - name: 'og:description'
-      value: A intresting tale about Surfing
+      value: Personalized League Analytics
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
