@@ -59,13 +59,13 @@ To fuel this vision, I broke my van setup into the following sections
 
 To power computation inside  the Van, I will use a custom built GPU intensive computer. Components Inside include:
 
+![](/images/Big%20Picture-e727b78e.jpg)
+
 *   GeForce RTX 2080 Super
 *   Gigabyte X570 AORUS Master Motherboard
 *   Corsair silver RM 850x power supply
 *   Corsair Hydro Series H100x liquid cooling
 *   Intel i7 Core
-
-
 
 With the above components, we’re looking at averaging 3.8 kWh per day on a 8 hour workday + 3 hour idle surfing when looking at average power consumption over 30 days. Having a powerful computer here allows us to screen-share for work, run analytics software which consume a lot of memory at high speed locally (Think Power Bi), and juggle many tabs excels files open at once as an analyst.
 
