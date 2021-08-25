@@ -26,7 +26,7 @@ Our poor operator wakes up a 5 am everyday to pull from archaic ERP systems, lay
 
 ![](/images/Manual%20Process.PNG)
 
-Why not automate this entire process with decision support, improve algorithms, and better visual displays, and have the system print out the production stickers in one go? We'll hook up ERP to python code, create an editable excel front-end, and stick the VBA buttons to the SQL server that prints the final sticker barcodes to start the production of product.
+Why not automate this entire process with decision support, improve algorithms, implement better visual displays, and have the system print out the production stickers in one go? We'll hook up ERP to python code, create an editable excel front-end, and stick the VBA buttons to the SQL server that prints the final sticker barcodes to start the production of product.
 
 ![](/images/Electronic%20Heijunka%20Board.png)
 
