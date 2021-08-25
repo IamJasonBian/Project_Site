@@ -18,7 +18,7 @@ sections:
 
 
       My experience in the tech industry has been in both technical and program
-      management roles and I excel at reconciling the two through an systems
+      management roles and I excel at reconciling the two through a systems
       perspective. Take a look at the projects section below to see data coming
       together from different domains into analytical data models!
 
