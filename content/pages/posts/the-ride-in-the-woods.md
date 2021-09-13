@@ -50,6 +50,8 @@ To do quality work in a housevan, we want internet that is of comparable quality
 
 To fuel this vision, I broke my van setup into the following sections
 
+If you want to rent this van, go here: https://www.outdoorsy.com/rv-rental/seattle_wa/2019\_ford_transit\_260959-listing?fbclid=IwAR2pkVEXS5xxCBdXSH2YLfz5mZLmU3pp4EU-Q2WWZGrcn7xwEYrEOfUhEVw
+
 1.  Powerful Computing
 2.  Sufficient Battery Capacity
 3.  Duo Monitor Workstation
@@ -152,3 +154,5 @@ My plan is to go with a Starlink reservation for testing and returns if necessar
 **Conclusion:**
 
 Hopefully, this article gives a high level overview of the decisions in creating a high performance van-life work setup for tech work. This setup is also perfect for running GPU heavy workloads locally like video processing and machine learning. This will allow your remote work performance to match that of any office worker and provide structure to onboard additional technologies in the future like AR/VR setups, IoT van sensors, and real-time applications running locally!
+
+****
