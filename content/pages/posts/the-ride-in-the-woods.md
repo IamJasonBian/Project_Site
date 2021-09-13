@@ -1,6 +1,6 @@
 ---
 title: Van Life Desk Setup for Tech Work
-date: '0002-04-23'
+date: '2021-04-23'
 thumb_img_path: /images/Van_Life.png
 thumb_img_alt: null
 content_img_alt: A motorcycle in a forest
