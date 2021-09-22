@@ -9,8 +9,8 @@ sections:
     title: About
     content: >
       I fell in love with the analytics space through building data pipelines
-      for operations research models in Industrial Engineering domains. I was
-      always fascinated by the quantitative nature within the systems around us.
+      for operations research models in Industrial Engineering domains. Data and
+      distributions was always how I understood systems around us.
 
 
       My experience in the tech industry has been in both technical and program
