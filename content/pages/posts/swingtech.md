@@ -3,7 +3,7 @@ excerpt: >-
   SwingTech is a motion tracking IoT device built to generate motion analytics
   for swing sports. Machine Learning algorithms parse swings through
   acceleration, classify swing type, and plot all swings for easy visualization.
-date: '2019-03-24'
+date: '2020-03-24'
 thumb_img_path: /images/SwingTech.png
 thumb_img_alt: SwingTech Product Pic
 content_img_alt: SwingTech Product Pic

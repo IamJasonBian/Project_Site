@@ -4,23 +4,20 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Jason'
-    content: >
-      Existing in the intersection of optimization, analytics and data
-      engineering 
   - section_id: about
     type: section_content
     title: About
     content: >
       I fell in love with the analytics space through building data pipelines
-      for operations research models in Industrial Engineering domains. I was
-      always fascinated by the quantitative nature within the systems around us.
+      for operations research models. Coming from Industrial Engineering, data
+      and distributions was always how I understood systems around us. 
 
 
       My experience in the tech industry has been in both technical and program
       management roles and I excel at reconciling the two through a systems
       perspective. Take a look at the projects section below to see data coming
-      together from different domains into analytical data models!
+      together from different domains into analytical data models that describe
+      our world!
 
 
       For fun, I enjoy traveling and building sensors. Currently, I'm traveling

@@ -5,7 +5,7 @@ excerpt: >-
   sensoring system used to monitor greenhouse hydraulic systems. Alerts and
   control limits work together to surface pump failure conditions and
   atmospheric deviations.
-date: '2019-03-10'
+date: '2020-03-10'
 thumb_img_path: /images/Hydroponics.jpg
 thumb_img_alt: Hikers on the trail
 content_img_alt: Hikers on the trail

@@ -1,6 +1,6 @@
 ---
 title: Van Life Desk Setup for Tech Work
-date: '2020-04-23'
+date: '2021-04-23'
 thumb_img_path: /images/Van_Life.png
 thumb_img_alt: null
 content_img_alt: A motorcycle in a forest
@@ -49,6 +49,9 @@ Internet connectivity is the lifeblood of our trade. With the advent of several 
 To do quality work in a housevan, we want internet that is of comparable quality as a workstation in the office. This allows us to keep up competitively  in the remote work landscape. We'll need powerful computers, sufficient battery capacity, duo monitors, and reliable wifi setup with sufficient speeds and coverage. By being able to match any office worker in meeting presence, screen-sharing, multi-tasking, and instantaneous analysis, we gain the ability for others to feel our presence in the office.
 
 To fuel this vision, I broke my van setup into the following sections
+
+If you want to rent this van, click [here](https://www.outdoorsy.com/rv-rental/seattle_wa/2019\_ford_transit\_260959-listing?fbclid=IwAR2pkVEXS5xxCBdXSH2YLfz5mZLmU3pp4EU-Q2WWZGrcn7xwEYrEOfUhEVw)
+
 
 1.  Powerful Computing
 2.  Sufficient Battery Capacity
@@ -152,3 +155,5 @@ My plan is to go with a Starlink reservation for testing and returns if necessar
 **Conclusion:**
 
 Hopefully, this article gives a high level overview of the decisions in creating a high performance van-life work setup for tech work. This setup is also perfect for running GPU heavy workloads locally like video processing and machine learning. This will allow your remote work performance to match that of any office worker and provide structure to onboard additional technologies in the future like AR/VR setups, IoT van sensors, and real-time applications running locally!
+
+***
