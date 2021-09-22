@@ -9,14 +9,15 @@ sections:
     title: About
     content: >
       I fell in love with the analytics space through building data pipelines
-      for operations research models in Industrial Engineering domains. Data and
-      distributions was always how I understood systems around us.
+      for operations research models. Coming from Industrial Engineering, data
+      and distributions was always how I understood systems around us. 
 
 
       My experience in the tech industry has been in both technical and program
       management roles and I excel at reconciling the two through a systems
       perspective. Take a look at the projects section below to see data coming
-      together from different domains into analytical data models!
+      together from different domains into analytical data models that describe
+      our world!
 
 
       For fun, I enjoy traveling and building sensors. Currently, I'm traveling
