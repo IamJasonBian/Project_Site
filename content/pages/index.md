@@ -5,9 +5,6 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Jason'
-    content: >
-      Existing in the intersection of optimization, analytics and data
-      engineering 
   - section_id: about
     type: section_content
     title: About
